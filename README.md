@@ -30,10 +30,15 @@ Um projeto simples e didático desenvolvido em **Java**, inspirado na apresenta�
 ---
 
 ##📦 SimuladorIphoneJava
+
 ┣ 📜 Main.java # Menu principal com chamada para os submenus
+
 ┣ 📜 Musica.java # Menu e funcionalidades do reprodutor musical
+
 ┣ 📜 Chamada.java # Menu e funcionalidades de chamadas telefônicas
+
 ┣ 📜 Internet.java # Menu e funcionalidades de navegação na internet
+
 ┗ 📄 README.md # Documentação do projeto
 
 ---
