@@ -29,7 +29,8 @@ Um projeto simples e didático desenvolvido em **Java**, inspirado na apresenta�
 
 ---
 
-##📦 SimuladorIphoneJava
+
+## 📦 SimuladorIphoneJava
 
 ┣ 📜 Main.java # Menu principal com chamada para os submenus
 
@@ -41,8 +42,15 @@ Um projeto simples e didático desenvolvido em **Java**, inspirado na apresenta�
 
 ┗ 📄 README.md # Documentação do projeto
 
+
 ---
 
-##👨‍💻 Autor
+### ⚙️ Requisitos
+
+- Java JDK 11 ou superior
+- IDE (Eclipse, IntelliJ, VSCode) ou terminal com suporte a Java
+---
+
+## 👨‍💻 Autor
 Alvarengazy
 
