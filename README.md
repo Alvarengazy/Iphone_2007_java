@@ -1,18 +1,43 @@
-## Getting Started
+# 📱 Simulador de Iphone(2007) em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Um projeto simples e didático desenvolvido em **Java**, inspirado na apresentação original do iPhone em 2007 por Steve Jobs. Este simulador de terminal implementa três das principais funcionalidades apresentadas: **Reprodutor Musical**, **Telefone** e **Navegador Web** — tudo isso por meio de menus interativos e orientação a objetos.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🔧 Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+| Módulo         | Recursos Disponíveis                                       |
+|----------------|------------------------------------------------------------|
+| 🎵 Música       | `tocar()`, `pausar()`, `trocarMusica()`                   |
+| 📞 Chamada      | `ligar()`, `atender()`, `iniciarCorreioVoz()`            |
+| 🌐 Internet     | `exibirPagina()`, `adicionarNovaAba()`, `atualizarPagina()` |
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+> Os menus são navegáveis pelo terminal via `switch` + `do-while`, com entrada de dados via `Scanner`.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🧠 Conceitos Aplicados
+✅ Programação orientada a objetos
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+✅ Classes e métodos separados por responsabilidade
+
+✅ Menu interativo com Scanner, do-while e switch
+
+✅ Encapsulamento de lógica em métodos reutilizáveis
+
+✅ Boas práticas de organização de código
+
+---
+
+##📦 SimuladorIphoneJava
+┣ 📜 Main.java # Menu principal com chamada para os submenus
+┣ 📜 Musica.java # Menu e funcionalidades do reprodutor musical
+┣ 📜 Chamada.java # Menu e funcionalidades de chamadas telefônicas
+┣ 📜 Internet.java # Menu e funcionalidades de navegação na internet
+┗ 📄 README.md # Documentação do projeto
+
+---
+
+##👨‍💻 Autor
+Alvarengazy
+
